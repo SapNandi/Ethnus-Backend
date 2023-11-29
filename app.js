@@ -15,9 +15,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // Route Imports
 
-const userRoute = require("./routes/UserRoute")
+const userRoute = require("./routes/UserRoute");
+const podcastRoute = require("./routes/ProductRoute");
 app.use("/api/v1", userRoute);
-
+app.use("/api/v1", podcastRoute);
 
 // Error Middleware
 app.use(errorMiddleware);

@@ -1,0 +1,230 @@
+[
+  {
+    "_id": {
+      "$oid": "63701d24f03239c72c00018e"
+    },
+    "name": "Brain Hacks",
+    "description": "In this episode, we have with us another all-star of The Ranveer Show - Siddharth Warrier. After talking to this man for one hour, I truly felt like I had explored the deepest parts of my brain. One of the most knowledgeable humans to appear on the show. This one was truly a life-changing conversation for me.Siddharth Warrier is an expert neurologist who runs his own podcast and YouTube channel from the ABCs of neuroscience to the most complex phenomenons.",
+    "category": "Psychology",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1mIS9MrMITuJzLp3xHop5Z9EP0lW7rOPK"
+    },
+    "video": "https://www.youtube.com/embed/TDSa7nZhlHY?si=s0deQRFOa0I7NTKm",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239c72c00018f"
+    },
+    "name": "Failure Part Of Success",
+    "description": "Nimai is a vegan bodybuilder and fitness instructor widely recognized for his dedication to a plant-based lifestyle. Nimai did not shy away from being open and honest about his journey. His vegan lifestyle started at a very young age in relation to his spiritual beliefs and personal values. Veganism isn’t just about eating plants, there is more to it and it is truly life changing.",
+    "category": "Motivational",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1pkrLRggfPpFTHSLtCWB9y7XxCG0DDE_a"
+    },
+    "video": "https://www.youtube.com/embed/TkORUmitIpQ?si=uGTbcQfRrNKMv4XT",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239c72c000190"
+    },
+    "name": "Manifesting Success",
+    "description": "Will Smith is an actor, producer and musician, two-time Academy Award nominee, Grammy Award and NAACP award winner who has enjoyed a diverse career encompassing films, television and multi platinum records. Starting as a rapper in 1985, Smith is best known for his acting roles in The Fresh Prince of Bel-Air, I Am Legend, the Bad Boys and Men in Black film series, Aladdin and Hitch. His vast filmography also includes transformative portrayals of true-life icons in Ali, The Pursuit of Happyness and Concussion.",
+    "category": "Motivational",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1O35O3KIgd1-rtNGkWQ7StM2qGFOY6PT3"
+    },
+    "video": "https://www.youtube.com/embed/kDYMizH73cc?si=jGEmhdl6jAObfnWT",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239c72c000191"
+    },
+    "name": "Unfiltered by Samdish",
+    "description": "From giving time to Movies and Social media to him being the winner of the 'genetic lottery' in the political circle, here we are with another roller coaster conversation, presenting to you- an all-new episode of Unfiltered by Samdish ft. K.T. Rama Rao. ",
+    "category": "Personality",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1PWZPEp0_qGBPIrUw6wooglP04luisxrH"
+    },
+    "video": "https://www.youtube.com/embed/Qj6CUhXgnko?si=djuiqomUPT-ObuI8",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239867500012b"
+    },
+    "name": "Simon Sinek: The Advice Young People NEED To Hea",
+    "description": "Simon Sinek is back and I couldn’t be more excited for you to hear this. His name is one of the most searched terms on YouTube and the author of books that have sold millions and millions of copies.",
+    "category": "Society",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=139eHr1Vm2Qzb7NEQaD2eng78Pcb0g5p-"
+    },
+    "video": "https://www.youtube.com/embed/NcaQUH2K-wo?si=wjT5dD_g_3B2hwFW",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239867500012c"
+    },
+    "name": "Michio Kaku: Quantum computing is the next revolution",
+    "description": "Dr. Michio Kaku, the renowned theoretical physicist, walks through the evolutionary journey of quantum computing, from analog to digital to the quantum era. Quantum computers hold immense promise because of their ability to tap into parallel universes, which boosts their computational power exponentially",
+    "category": "Society",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1zHprTU3iXyRiRBuvR5Ji-W49b1BnPo_T"
+    },
+    "video": "https://www.youtube.com/embed/qQviI1d_hFA?si=v8TYNp27wX6PCJH0",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239867500012d"
+    },
+    "name": "The Bhopal Gas Leak | Who were Railway Men?",
+    "description": "Unveil the chilling account of the Bhopal gas tragedy that shook the world on December 3, 1984. This eye-opening video exposes the horrifying aftermath of the poisonous gas leak from the Union Carbide plant, engulfing over 40 square kilometers and affecting a staggering 200,000 lives. Delve into the chaos and heart-wrenching stories from Bhopal Junction railway station, where Deputy Station Superintendent Ghulam Dastagir's heroic efforts amidst the confusion stood as a beacon of hope.",
+    "category": "Society",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1WROyB4kWhyh7McOOsh3BghjXS7spr006"
+    },
+    "video": "https://www.youtube.com/embed/DOApK2Yf5j4?si=RpincsZjzKNR7QMa",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239b7f7000015"
+    },
+    "name": "Underrated Indian Dishes",
+    "description": "Mountain Dew 'Darr Ke Aage Jeet Hai' Stories On The Ranveer Show हिंदी के 216th Episode में आप सभी का स्वागत है. आज के Podcast में हमारे साथ जुड़ चुके हैं Vikas Khanna, जो एक Indian Chef और Restaurateur हैं। Amritsar से बाहर निकलकर और अपने Dar Par Jeet Hassil करके उन्होंने भारत का नाम International Stage पर रोशन किया है। साथ ही उन्होंने 'Michelin Star' के खिताब को भी जीता है।",
+    "category": "Gourmet",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1RDmhTJ8mZmZ_YKI_CNpYMbGUijRwyUXV"
+    },
+    "video": "https://www.youtube.com/embed/2CaZTrO4j-E?si=UX8uEESTRPcrvR8U",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239b7f7000016"
+    },
+    "name": "Zomato-Journey From Startup To IPO",
+    "description": "The Ranveer Show हिंदी के 210th Episode में आप सभी का स्वागत है. आज के Podcast में हमारे साथ जुड़ चुके हैं Deepinder Goyal, जो Zomato के CEO हैं। ये Indian Entrepreneurship Space के Legend माने जाते हैं। हाल ही में इन्होंने 'CULTure At Zomato' Book भी Publish की है। इस Podcast में हम बात करेंगे ढ़ेर सारी बातें  Zomato Delivery App, Marketing Strategy, Hiring In Zomato, Zomato Culture, Zomato Delivery Partners और Swiggy Vs Zomato के बारे में।",
+    "category": "StartUp",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1PGRZJ-Pf6AAnj__Wc318N2aE57abpQjd"
+    },
+    "video": "https://www.youtube.com/embed/3wBEUuV7BYg?si=81ma7qw6fnIvYspI",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239b7f7000017"
+    },
+    "name": "Elon Musk: War, AI, Aliens",
+    "description": "Elon Musk is CEO of X, xAI, SpaceX, Tesla, Neuralink, and The Boring Company.",
+    "category": "Personality",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=18C81jaqNYKuZzQJub_umxC6ZJg5iJjbh"
+    },
+    "video": "https://www.youtube.com/embed/JN3KPFbWCy8?si=BcIWF7AtitQaXNaJ",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f03239b7f7000018"
+    },
+    "name": "Hack Your Happiness",
+    "description": "Since 2020, the world has seen the most challenging phase in terms of mental health issues. People took years to build and did a lot of hard work to reach where they were; many had to endure tough times. We have all tried to overcome our mental health issues during this period and fought internal battles. If you have a hard time and are battling mental health issues of your own, then this video is definitely for you.",
+    "category": "Psychology",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1mTULAur7rb8HCo3gaiW9vKCBwMeKAzQu"
+    },
+    "video": "https://www.youtube.com/embed/GqaHQeW7GrA?si=iEHOgdX7wiyq8O9z",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63701d24f0323944410002ec"
+    },
+    "name": "Dr. Hiranandani - The KING Of Real Estate ",
+    "description": "In today’s podcast, we have with us the real estate tycoon Dr. Niranjan Hiranandani. Discover how this self-made success story embarked on his journey. From modest beginnings as a teacher and even owning a textile factory, he ventured into real estate, even after some initial setbacks",
+    "category": "Real Estate",
+    "images": {
+      "url": "https://drive.google.com/uc?export=view&id=1xjZCckRjUt2CNe4NKbgix_xXO4svocmm"
+    },
+    "video": "https://www.youtube.com/embed/utSvq5v7uHo?si=qpaJ74t9I1wsilty",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T08:30:51.900Z"
+    }
+  }
+]
